@@ -1,6 +1,36 @@
 body {
   background-color: #252933;
+  text-align:center;
 }
+
 p {
+  color: white;
+}
+#abme {
+  background-color: #191D28;
   color:white;
+  text-align:center;
+  padding-block: 30px;
+  border-radius: 8px;
+  outline-style: solid;
+  outline-color: white;
+}
+#list {
+  padding:30px;
+  border-radius:8px;
+  text-align: left;
+  color:white;
+  background-color: #191D28;
+  outline-style:solid;
+  outline-color: floralwhite;
+}
+#hob {
+  position:relative;
+  bottom:-30px;
+  padding:8px;
+  background-color:#070C17;
+  border-radius:4px;
+  color:white;
+  outline-style:solid;
+  outline-color: white;
 }
