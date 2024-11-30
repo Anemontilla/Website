@@ -6,10 +6,7 @@ body {
 p {
   color: white;
 }
-#intro
-{
-  text-align: left;
-}
+
 #abme {
   background-color: #191D28;
   color: white;
@@ -29,12 +26,13 @@ p {
   outline-style: solid;
   outline-color: floralwhite;
 }
+
 #ken {
   width: 200px;
   height: 200px;
 }
-#audio
-{
+
+#audio {
   border: 10px;
 }
 
@@ -47,4 +45,11 @@ p {
   color: white;
   outline-style: solid;
   outline-color: white;
+  text-align: left;
+}
+#web {
+  color:antiquewhite;
+  background-color: royalblue;
+  padding-block: 8px;
+  border-radius: 2px;
 }
