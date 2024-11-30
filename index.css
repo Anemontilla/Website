@@ -47,3 +47,10 @@ p {
   outline-color: white;
   text-align: left;
 }
+
+#wow {
+  padding: 10px;
+  border-radius: 4px;
+  color: white;
+  background-color: royalblue;
+}
