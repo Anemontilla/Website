@@ -1,20 +1,26 @@
+header {
+border-radius:10px;
+margin: 0;
+padding: 0;
+height: 3.6vh;
+background-color: #191D28;
+}
+#he {
+ border: 8px solid #191D28;
+ background-color: palevioletred;
+ font-size: 20px;
+ color: #191D28;
+}
+
 body {
   background-color: #252933;
   text-align: center;
+  margin: 0;
+  padding: 0;
 }
 
 p {
   color: white;
-}
-
-#abme {
-  background-color: #191D28;
-  color: white;
-  text-align: center;
-  padding-block: 30px;
-  border-radius: 8px;
-  outline-style: solid;
-  outline-color: white;
 }
 
 #list {
@@ -30,6 +36,7 @@ p {
 #ken {
   width: 200px;
   height: 200px;
+  border-radius: 12px;
 }
 
 #audio {
