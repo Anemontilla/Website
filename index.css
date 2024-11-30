@@ -16,8 +16,6 @@ header {
 body {
   background-color: #252933;
   text-align: center;
-  margin: 0;
-  padding: 0;
 }
 
 p {
@@ -55,6 +53,10 @@ p {
   outline-color: white;
   text-align: left;
 }
+
 #web {
   color: unset;
+  background-color: unset;
+  text-align: unset;
+  
 }
