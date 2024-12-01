@@ -35,7 +35,22 @@ p {
   height: 300px;
   border-radius: 10px;
 }
-
+#art1{
+  width: 150px;
+  height: 200px;
+}
+#art2{
+  height: 200px;
+  height: 200px;
+}
+#art3{
+  height: 200px;
+  height: 200px;
+}
+#art4{
+  height: 200px;
+  height: 200px;
+}
 #hob {
   position: relative;
   bottom: -30px;
