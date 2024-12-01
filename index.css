@@ -1,11 +1,3 @@
-header {
-  border-radius: 10px;
-  margin: 0;
-  padding: 0;
-  height: 3.6vh;
-  background-color: #191D28;
-}
-
 #he {
   border: 2px solid white;
   background-color: palevioletred;
@@ -14,7 +6,7 @@ header {
 }
 
 body {
-  background-color:#252933;
+  background-color: #252933;
   text-align: center;
 }
 
