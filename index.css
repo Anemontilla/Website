@@ -7,14 +7,14 @@ header {
 }
 
 #he {
-  border: 8px solid #191D28;
+  border: 2px solid white;
   background-color: palevioletred;
   font-size: 20px;
   color: #191D28;
 }
 
 body {
-  background-color: #252933;
+  background-color:#252933;
   text-align: center;
 }
 
