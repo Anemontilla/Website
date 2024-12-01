@@ -25,11 +25,16 @@ p {
 }
 
 #ken {
-  width: 200px;
-  height: 200px;
+  width: 300px;
+  height: 80px;
   border-radius: 12px;
 }
+#cat {
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
 
+}
 #hob {
   position: relative;
   bottom: -30px;
